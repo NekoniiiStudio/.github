@@ -34,6 +34,14 @@
 
 ---
 
+## 📖 Codex
+
+| Repository | Link |
+|---|---|
+| [![ETCodex](https://img.shields.io/badge/ETCodex-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TonicatFelidae/ETCodex) | Master directory map, guidelines, and reference code |
+
+---
+
 ## 📂 Folders
 
 | Projects | Link |
